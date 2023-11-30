@@ -36,5 +36,16 @@ offers a valuable forecasting tool for stakeholders in the field.<br><br>
 | Power BI | Final Dashboard which contains 3 dashboard for main functionality, model, forecasting respectively |
 | model | Having the excel file, which is having the all information of my model(Linear Regression) building part |
 | Dataset | The file which I have used from data.world |
-| 04 | Save the model into the seprated file|
+
+
+
+# Link of Live Dashboard<br><br>
+https://app.powerbi.com/groups/me/reports/3aefc83e-7bba-48ab-b672-4fd2f362d4d9/ReportSection?experience=power-bi
+
+# Dashboard Images<br><br>
+
+![01 (1)](https://github.com/iamistiyak/Power-BI-Dashboard-Data-Professionals-Salary-Survey/assets/86108816/9ceae9c8-b3d0-4ddf-95fb-cb57e65c947c)  <br><br>
+
+![01 (2)](https://github.com/iamistiyak/Power-BI-Dashboard-Data-Professionals-Salary-Survey/assets/86108816/bf87116a-8961-4e4f-b2b5-b1f88c9ee876)  <br><br>
+
 
