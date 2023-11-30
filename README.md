@@ -49,3 +49,6 @@ https://app.powerbi.com/groups/me/reports/3aefc83e-7bba-48ab-b672-4fd2f362d4d9/R
 ![01 (2)](https://github.com/iamistiyak/Power-BI-Dashboard-Data-Professionals-Salary-Survey/assets/86108816/bf87116a-8961-4e4f-b2b5-b1f88c9ee876)  <br><br>
 
 
+
+
+![01 (3)](https://github.com/iamistiyak/Power-BI-Dashboard-Data-Professionals-Salary-Survey/assets/86108816/42d7585a-aabd-45d7-9a30-c9e56bc5f066)
